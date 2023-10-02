@@ -1,0 +1,8 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.backgrd{
+    background-color:rgb(222, 200, 242);
+}
